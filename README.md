@@ -1,3 +1,1 @@
-# Webhook-Spammer
-Webhook spammer UI
-![Uploading image.png…]()
+Webhook sender / spammer use it for anything
